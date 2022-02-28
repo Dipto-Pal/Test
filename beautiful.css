@@ -1,0 +1,38 @@
+h1{
+    color: rgb(0, 47, 255);
+    background-color: rgb(244, 234, 96);
+    height: 90px;
+    width: 75%;
+}
+p{
+    color: salmon;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#check{
+    font-size: 40px;
+    color: slateblue; 
+}
+#second{
+    color:tomato;
+}
+.friend{
+    background-color: greenyellow;
+}
+h1.friend{
+    font-size: 60px;
+}
+.neighbor{
+   width: 200px; 
+}
+img{
+    width: 100%;
+}
+.romantic{
+    color: rgb(0, 255, 21);
+}
+.blog{
+    background-color: lightblue;
+}
